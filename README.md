@@ -1,7 +1,7 @@
 # IMDb API Clone
 
-Ce projet consiste à créer un clone de l'API IMDb en utilisant Python avec le framework Django. L'API vous permettra d'accéder à une base de données de films, séries télévisées, acteurs, réalisateurs et d'autres informations liées au monde du cinéma et de la télévision 📺
+This undertaking entails the development of a Python-based IMDb API clone utilising the Django framework. You will have access to a database containing films, television series, actors, directors, and other information pertinent to the film and television industries via the API ✅
 
 ## Comment ça marche ?
 
-Ce projet utilise Django pour créer une API RESTful qui permet de rechercher des films et séries par titre, d'obtenir des informations détaillées sur un film ou une série, de rechercher des acteurs et réalisateurs par nom, et bien plus encore 😁🔥🎉
+This project creates a RESTful API with Django that enables users to search for actors and directors by name, obtain detailed information about a film or series, and much more (search for films and series by title, view additional information) 🎉
